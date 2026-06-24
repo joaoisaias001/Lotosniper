@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 
 # 1. CONFIGURAÇÃO DA PÁGINA
-st.set_page_config(page_title="Mentor Sniper v15", layout="centered")
+st.set_page_config(page_title="Lotofácil Sniper v15", layout="centered")
 
 # CSS customizado para manter o Dark Mode com Roxo e Verde Neon
 st.markdown("""
